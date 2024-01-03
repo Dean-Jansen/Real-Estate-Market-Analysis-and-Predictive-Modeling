@@ -46,7 +46,7 @@ The [real_estate_data.csv](real_estate_data.csv) file contains 50 simulated samp
     cd real-estate-analysis
     ```
 
-2. Install the required dependencies (if any).
+2. Install the required dependencies
 
 3. Follow the instructions in each component's section to run and customize the code.
 
