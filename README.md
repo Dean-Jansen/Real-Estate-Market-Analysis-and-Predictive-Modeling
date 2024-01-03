@@ -53,6 +53,4 @@ The [real_estate_data.csv](real_estate_data.csv) file contains 50 simulated samp
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or features you'd like to add.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
